@@ -1,0 +1,458 @@
+{
+ "kaisa": {
+  "kw": "Accelerate",
+  "text": "When she conquers, draw 1."
+ },
+ "hopeful": {
+  "kw": "Legion",
+  "text": "costs 2 less if you've already played another card this turn."
+ },
+ "forer": {
+  "kw": "Deathknell",
+  "text": "when it dies, play two 3-might Mech unit tokens to your base."
+ },
+ "tideturner": {
+  "kw": "Hidden",
+  "text": "When played, you may pick a friendly unit: the two swap locations."
+ },
+ "herder": {
+  "kw": null,
+  "text": "Whenever it moves, draw 1."
+ },
+ "scuttle": {
+  "kw": "Deathknell",
+  "text": "0 might but can still conquer/hold. On play, draw 1. Deathknell: an opponent reveals their hand; gain 1 XP."
+ },
+ "vex": {
+  "kw": "Deflect",
+  "text": "While she's at a battlefield, units an opponent plays are stunned and can't move that turn."
+ },
+ "watcher": {
+  "kw": "Accelerate",
+  "text": "When played, all enemy units get -3 might this turn (not below 1)."
+ },
+ "fan": {
+  "kw": null,
+  "text": "When it defends, you may kill it to send an attacking unit back to its base."
+ },
+ "yasuo": {
+  "kw": null,
+  "text": "When he attacks, he deals damage equal to his might to an enemy unit there."
+ },
+ "dianaLunari": {
+  "kw": null,
+  "text": "When a showdown starts here, may pay 1 energy: Predict, then reveal the top card; draw it if it's a spell."
+ },
+ "hwei": {
+  "kw": null,
+  "text": "When he moves, draw 1 then discard 1; bonus by discarded type: spell draw 1, gear ready 2 runes, unit +3 might."
+ },
+ "porobot": {
+  "kw": null,
+  "text": "If you control 3 or more other gear when played, draw 1."
+ },
+ "shen": {
+  "kw": "Reaction \u00b7 Shield 2",
+  "text": "Reaction (can be played any time). Shield 2. Tank: must be assigned combat damage first."
+ },
+ "stalwart": {
+  "kw": "Shield",
+  "text": "+1 might while defending."
+ },
+ "recruit": {
+  "kw": null,
+  "text": "Token unit with no text: a 1-might Recruit."
+ },
+ "sprite": {
+  "kw": "Temporary",
+  "text": "Token unit: 3 might with Temporary (dies at the start of its controller's next Beginning Phase, before scoring)."
+ },
+ "gold": {
+  "kw": null,
+  "text": "Kill this and exhaust it to add 1 power of any colour."
+ },
+ "discipline": {
+  "kw": "Reaction",
+  "text": "A unit gets +2 might this turn. Draw 1."
+ },
+ "defy": {
+  "kw": "Reaction",
+  "text": "Counter a spell that costs at most 4 energy and at most 1 power."
+ },
+ "gust": {
+  "kw": "Reaction",
+  "text": "Return a unit at a battlefield with 3 or less might to its owner's hand."
+ },
+ "cleave": {
+  "kw": "Action \u00b7 Assault 3",
+  "text": "A unit gets Assault 3 this turn (+3 might while attacking)."
+ },
+ "odds": {
+  "kw": "Reaction",
+  "text": "A friendly unit at a battlefield gets +2 might this turn for each enemy unit there."
+ },
+ "stupefy": {
+  "kw": "Reaction",
+  "text": "A unit gets -1 might this turn (not below 1). Draw 1."
+ },
+ "falling": {
+  "kw": null,
+  "text": "Deal 3 to a unit, then deal 3 to a unit again. No Action/Reaction: main-phase speed only."
+ },
+ "ride": {
+  "kw": "Action",
+  "text": "Move a friendly unit, then ready it."
+ },
+ "ray": {
+  "kw": "Action",
+  "text": "Deal 3 to a unit at a battlefield."
+ },
+ "punch": {
+  "kw": "Action",
+  "text": "A unit gets +5 might this turn."
+ },
+ "moonfall": {
+  "kw": "Action",
+  "text": "Pick a battlefield with your units; may pull one enemy unit there; enemies there get -2 might this turn."
+ },
+ "stacked": {
+  "kw": "Action",
+  "text": "Look at your top 3 cards, put 1 in hand, recycle the rest."
+ },
+ "wages": {
+  "kw": "Hidden \u00b7 Action",
+  "text": "Deal 3 to a unit at a battlefield and play an exhausted Gold gear token."
+ },
+ "lullaby": {
+  "kw": "Reaction",
+  "text": "Counter a spell; its controller can't play spells for the rest of the turn."
+ },
+ "abandon": {
+  "kw": "Reaction",
+  "text": "Counter a spell but return it to its owner's hand instead of the trash. Predict."
+ },
+ "dredge": {
+  "kw": "Flow",
+  "text": "Draw 1. Flow 2: can be cast from your trash for 2 energy, then banished."
+ },
+ "singularity": {
+  "kw": null,
+  "text": "Deal 6 to each of up to two units."
+ },
+ "progress": {
+  "kw": null,
+  "text": "Draw 4."
+ },
+ "hardBargain": {
+  "kw": "Reaction \u00b7 Repeat",
+  "text": "Counter a spell unless its controller pays 2 energy. Repeat for 2 energy."
+ },
+ "eclipse": {
+  "kw": "Reaction",
+  "text": "A unit gets -4 might this turn. Predict."
+ },
+ "flash": {
+  "kw": "Reaction",
+  "text": "Move up to two friendly units back to base."
+ },
+ "charm": {
+  "kw": null,
+  "text": "Move an enemy unit. No Action/Reaction: main-phase speed only."
+ },
+ "voidseeker": {
+  "kw": "Action",
+  "text": "Deal 4 to a unit at a battlefield. Draw 1."
+ },
+ "flourish": {
+  "kw": null,
+  "text": "Deal 3 to an enemy unit. If it dies this turn, make a Gold token."
+ },
+ "morbid": {
+  "kw": "Action",
+  "text": "Return a unit from your trash to your hand."
+ },
+ "zhonya": {
+  "kw": "Hidden",
+  "text": "The next time a friendly unit would die, kill this instead and recall that unit exhausted to base."
+ },
+ "pack": {
+  "kw": null,
+  "text": "Exhaust: return another friendly gear, unit, or Hidden card to its owner's hand."
+ },
+ "trove": {
+  "kw": null,
+  "text": "When it leaves the board: draw 1 and channel 1 rune exhausted. Pay 1 Chaos power + exhaust: kill this."
+ },
+ "aurora": {
+  "kw": null,
+  "text": "At the end of your turn, reveal from the top until a unit; play it free; recycle the rest."
+ },
+ "promoter": {
+  "kw": "Backline",
+  "text": "assigned combat damage last. When it holds, Buff every unit there."
+ },
+ "revna": {
+  "kw": "Ganking",
+  "text": "can move battlefield to battlefield. Readies when you play a spell paid with 4+ energy."
+ },
+ "pouty": {
+  "kw": "Deflect",
+  "text": "opponents pay 1 extra power of any domain to target it with a spell or ability."
+ },
+ "sentry": {
+  "kw": "Deathknell",
+  "text": "when it dies, draw 1."
+ },
+ "mystic": {
+  "kw": "Vision",
+  "text": "when played, look at your top card; you may recycle it."
+ },
+ "gloryseeker": {
+  "kw": "Legion",
+  "text": "if you've played another card this turn, it gets a +1 might buff when played."
+ },
+ "gromp": {
+  "kw": "Hunt 3",
+  "text": "gain 3 XP whenever it conquers or holds."
+ },
+ "daring": {
+  "kw": "Assault",
+  "text": "+1 might while attacking."
+ },
+ "soulspinner": {
+  "kw": "Ambush",
+  "text": "may be played as a Reaction to a battlefield where you have units."
+ },
+ "pakaa": {
+  "kw": "Hidden",
+  "text": "hide it facedown for 1 power, then play it on a later turn at Reaction speed for 0 energy."
+ },
+ "spriteBurst": {
+  "kw": "Temporary",
+  "text": "Play two ready 3-might Sprite tokens with Temporary (they die at your next Beginning Phase)."
+ },
+ "cloth": {
+  "kw": "Quick-Draw \u00b7 Equip",
+  "text": "Equipment granting Shield 2. Quick-Draw: Reaction speed, attaches on play. Equip: 1 Mind power."
+ },
+ "dorans": {
+  "kw": "Equip",
+  "text": "Equipment, +2 might. Equip: pay 1 Body power to attach it to your unit."
+ },
+ "veteran": {
+  "kw": "Weaponmaster",
+  "text": "when played, may attach one of your Equipment to it for 1 power less."
+ },
+ "feral": {
+  "kw": "Reaction \u00b7 Repeat",
+  "text": "A unit gets +2 might this turn. Repeat: pay 2 more energy to do it again."
+ },
+ "punching": {
+  "kw": "Empower",
+  "text": "Empower by discarding 1. While Empowered, it has +1 might."
+ },
+ "banner": {
+  "kw": "Deploy \u00b7 Assault",
+  "text": "played only to a battlefield, dies if an opponent holds there. Your units there have Assault."
+ },
+ "peddler": {
+  "kw": "Disarm",
+  "text": "when it attacks, an enemy unit there gets -1 might this turn."
+ },
+ "construct": {
+  "kw": "Show Off",
+  "text": "Show Off a Mech (reveal one from hand or pick a friendly one); if you did, it enters ready."
+ },
+ "gemhand": {
+  "kw": "Hunt \u00b7 Level 6",
+  "text": "Hunt 1. Level 6: while you have 6+ XP, it has +1 might."
+ },
+ "rabadon": {
+  "kw": "Unique \u00b7 Equip",
+  "text": "Unique (max 1 copy per deck). Equipment +3 might; your spells and abilities deal 3 bonus damage."
+ },
+ "kaisaL": {
+  "kw": "Reaction",
+  "text": "Reaction, exhaust: add 1 power of any domain, usable only to play spells."
+ },
+ "dianaL": {
+  "kw": "Reaction",
+  "text": "Reaction, exhaust: add 1 energy that can only be spent during showdowns."
+ },
+ "dravenL": {
+  "kw": null,
+  "text": "Whenever you win a combat, draw 1."
+ },
+ "shenL": {
+  "kw": "Action \u00b7 Tank",
+  "text": "Action, exhaust: give a friendly unit Tank this turn."
+ },
+ "ireliaL": {
+  "kw": null,
+  "text": "When you choose a friendly unit, may exhaust this + pay 1 power to ready it. On conquer, pay 1 to ready this."
+ },
+ "yiL": {
+  "kw": "Level 6 \u00b7 Level 11",
+  "text": "your units have +1 might. Level 11: your units enter ready."
+ },
+ "reksaiL": {
+  "kw": null,
+  "text": "When you conquer, may exhaust: reveal top 2, may play one, recycle the rest."
+ },
+ "lilliaL": {
+  "kw": "Temporary",
+  "text": "4 energy, exhaust: play a ready 3-might Temporary Sprite; costs 1 less per friendly Temporary unit."
+ },
+ "azirL": {
+  "kw": "Weaponmaster",
+  "text": "Sand Soldiers have Weaponmaster. 1 energy, exhaust: make a 2-might Sand Soldier if you played Equipment this turn."
+ },
+ "viktorL": {
+  "kw": null,
+  "text": "1 energy, exhaust: play a 1-might Recruit token."
+ },
+ "ezrealL": {
+  "kw": "Reaction",
+  "text": "Exhaust (Reaction): draw 1, only if you've targeted enemy units/gear twice this turn with spells or unit abilities."
+ },
+ "kennenL": {
+  "kw": "Action \u00b7 Assault 2",
+  "text": "Empowers when you play a card from anywhere but hand. Action: disempower + exhaust to give a unit Assault 2."
+ },
+ "leblancL": {
+  "kw": "Temporary",
+  "text": "On conquer or hold, may discard 1 + exhaust: make a ready Temporary Reflection token copying another unit there."
+ },
+ "dariusL": {
+  "kw": "Reaction \u00b7 Legion",
+  "text": "Exhaust (Reaction, Legion): add 1 energy if you've played a card this turn."
+ },
+ "rengarL": {
+  "kw": null,
+  "text": "Whenever you play a unit, give a unit +1 might this turn."
+ },
+ "targon": {
+  "kw": null,
+  "text": "When you conquer here, ready 2 runes at end of turn."
+ },
+ "grove": {
+  "kw": null,
+  "text": "When you hold here, draw 1."
+ },
+ "zaun": {
+  "kw": null,
+  "text": "When you conquer here, discard 1 then draw 1."
+ },
+ "candle": {
+  "kw": null,
+  "text": "When you conquer here, look at your top 2; recycle any; put the rest back in any order."
+ },
+ "hoard": {
+  "kw": null,
+  "text": "When you conquer here, may pay 1 energy to play an exhausted Gold gear token."
+ },
+ "sigil": {
+  "kw": null,
+  "text": "When you conquer here, recycle one of your runes."
+ },
+ "monument": {
+  "kw": null,
+  "text": "Players can't score here until their third turn."
+ },
+ "kinkou": {
+  "kw": "Tank",
+  "text": "Units here with Tank have +1 might."
+ },
+ "vilemaw": {
+  "kw": null,
+  "text": "Units here can't move to base."
+ },
+ "fortified": {
+  "kw": "Shield 2",
+  "text": "When you defend here, one unit gains Shield 2 this combat."
+ },
+ "hillock": {
+  "kw": "Ganking",
+  "text": "Units here have Ganking."
+ },
+ "rockfall": {
+  "kw": null,
+  "text": "Units can't be played here."
+ },
+ "starspring": {
+  "kw": null,
+  "text": "First time each turn a player plays a non-token unit here, they may send another of their units here to base."
+ },
+ "waste": {
+  "kw": null,
+  "text": "A unit defending here alone has -2 might."
+ },
+ "runeFury": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Fury power."
+ },
+ "runeCalm": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Calm power."
+ },
+ "runeMind": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Mind power."
+ },
+ "runeBody": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Body power."
+ },
+ "runeChaos": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Chaos power."
+ },
+ "runeOrder": {
+  "kw": null,
+  "text": "Exhaust: 1 energy. Recycle: 1 Order power."
+ },
+ "banCalledShot": {
+  "kw": null,
+  "text": "Banned in Standard since Mar 31, 2026."
+ },
+ "banDraven": {
+  "kw": null,
+  "text": "Banned in Standard since Mar 31, 2026."
+ },
+ "banFightFlight": {
+  "kw": null,
+  "text": "Banned in Standard since Mar 31, 2026."
+ },
+ "banScrapheap": {
+  "kw": null,
+  "text": "Banned in Standard since Mar 31, 2026."
+ },
+ "banPursuer": {
+  "kw": null,
+  "text": "Banned in Standard since Jul 24, 2026."
+ },
+ "banEkko": {
+  "kw": null,
+  "text": "Banned in Standard since Sept 18, 2026."
+ },
+ "banReavers": {
+  "kw": null,
+  "text": "Banned battlefield since Mar 31, 2026."
+ },
+ "banDreaming": {
+  "kw": null,
+  "text": "Banned battlefield since Mar 31, 2026."
+ },
+ "banObelisk": {
+  "kw": null,
+  "text": "Banned battlefield since Mar 31, 2026."
+ },
+ "banArena": {
+  "kw": null,
+  "text": "Banned battlefield since Jul 24, 2026."
+ },
+ "banClimb": {
+  "kw": null,
+  "text": "Banned battlefield since Jul 24, 2026."
+ }
+}

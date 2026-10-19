@@ -1,0 +1,458 @@
+{
+ "kaisa": {
+  "id": "ogn-039-298",
+  "display": "Kai'Sa, Survivor"
+ },
+ "hopeful": {
+  "id": "ogn-012-298",
+  "display": "Noxus Hopeful"
+ },
+ "forer": {
+  "id": "sfd-021-221",
+  "display": "Ferrous Forerunner"
+ },
+ "tideturner": {
+  "id": "ogn-199-298",
+  "display": "Tideturner"
+ },
+ "herder": {
+  "id": "sfd-048-221",
+  "display": "Stellacorn Herder"
+ },
+ "scuttle": {
+  "id": "unl-053-219",
+  "display": "Scuttle Crab"
+ },
+ "vex": {
+  "id": "unl-150-219",
+  "display": "Vex, Apathetic"
+ },
+ "watcher": {
+  "id": "ogn-116-298",
+  "display": "Thousand-Tailed Watcher"
+ },
+ "fan": {
+  "id": "sfd-128-221",
+  "display": "Overzealous Fan"
+ },
+ "yasuo": {
+  "id": "ogn-076-298",
+  "display": "Yasuo, Remorseful"
+ },
+ "dianaLunari": {
+  "id": "unl-079-219",
+  "display": "Diana, Lunari"
+ },
+ "hwei": {
+  "id": "unl-080-219",
+  "display": "Hwei, Brooding Painter"
+ },
+ "porobot": {
+  "id": "ven-058-166",
+  "display": "Patched Porobot"
+ },
+ "shen": {
+  "id": "ogn-241-298",
+  "display": "Shen, Kinkou"
+ },
+ "stalwart": {
+  "id": "ogn-052-298",
+  "display": "Stalwart Poro"
+ },
+ "recruit": {
+  "id": "ven-t04",
+  "display": "Recruit"
+ },
+ "sprite": {
+  "id": "unl-t07",
+  "display": "Sprite"
+ },
+ "gold": {
+  "id": "sfd-t03",
+  "display": "Gold"
+ },
+ "discipline": {
+  "id": "ogn-058-298",
+  "display": "Discipline"
+ },
+ "defy": {
+  "id": "ogn-045-298",
+  "display": "Defy"
+ },
+ "gust": {
+  "id": "ogn-169-298",
+  "display": "Gust"
+ },
+ "cleave": {
+  "id": "ogn-004-298",
+  "display": "Cleave"
+ },
+ "odds": {
+  "id": "sfd-001-221",
+  "display": "Against the Odds"
+ },
+ "stupefy": {
+  "id": "ogn-095-298",
+  "display": "Stupefy"
+ },
+ "falling": {
+  "id": "ogn-029-298",
+  "display": "Falling Star"
+ },
+ "ride": {
+  "id": "ogn-173-298",
+  "display": "Ride the Wind"
+ },
+ "ray": {
+  "id": "ogn-009-298",
+  "display": "Hextech Ray"
+ },
+ "punch": {
+  "id": "sfd-097-221",
+  "display": "Punch First"
+ },
+ "moonfall": {
+  "id": "unl-198-219",
+  "display": "Moonfall"
+ },
+ "stacked": {
+  "id": "ogn-183-298",
+  "display": "Stacked Deck"
+ },
+ "wages": {
+  "id": "sfd-070-221",
+  "display": "Wages of Pain"
+ },
+ "lullaby": {
+  "id": "unl-190-219",
+  "display": "Lilting Lullaby"
+ },
+ "abandon": {
+  "id": "unl-131-219",
+  "display": "Abandon"
+ },
+ "dredge": {
+  "id": "ven-049-166",
+  "display": "Dredge Up"
+ },
+ "singularity": {
+  "id": "ogn-105-298",
+  "display": "Singularity"
+ },
+ "progress": {
+  "id": "ogn-114-298",
+  "display": "Progress Day"
+ },
+ "hardBargain": {
+  "id": "sfd-136-221",
+  "display": "Hard Bargain"
+ },
+ "eclipse": {
+  "id": "unl-063-219",
+  "display": "Eclipse"
+ },
+ "flash": {
+  "id": "ogs-011-024",
+  "display": "Flash"
+ },
+ "charm": {
+  "id": "ogn-043-298",
+  "display": "Charm"
+ },
+ "voidseeker": {
+  "id": "ogn-024-298",
+  "display": "Void Seeker"
+ },
+ "flourish": {
+  "id": "unl-073-219",
+  "display": "Deadly Flourish"
+ },
+ "morbid": {
+  "id": "ogn-170-298",
+  "display": "Morbid Return"
+ },
+ "zhonya": {
+  "id": "ogn-077-298",
+  "display": "Zhonya's Hourglass"
+ },
+ "pack": {
+  "id": "ogn-181-298",
+  "display": "Pack of Wonders"
+ },
+ "trove": {
+  "id": "ogn-186-298",
+  "display": "Treasure Trove"
+ },
+ "aurora": {
+  "id": "ogn-160-298",
+  "display": "Dazzling Aurora"
+ },
+ "promoter": {
+  "id": "unl-043-219",
+  "display": "Enthusiastic Promoter"
+ },
+ "revna": {
+  "id": "unl-005-219",
+  "display": "Revna the Lorekeeper"
+ },
+ "pouty": {
+  "id": "ogn-013-298",
+  "display": "Pouty Poro"
+ },
+ "sentry": {
+  "id": "ogn-096-298",
+  "display": "Watchful Sentry"
+ },
+ "mystic": {
+  "id": "ogn-171-298",
+  "display": "Mystic Poro"
+ },
+ "gloryseeker": {
+  "id": "ogn-217-298",
+  "display": "Trifarian Gloryseeker"
+ },
+ "gromp": {
+  "id": "unl-100-219",
+  "display": "Voracious Gromp"
+ },
+ "daring": {
+  "id": "ogn-210-298",
+  "display": "Daring Poro"
+ },
+ "soulspinner": {
+  "id": "ven-123-166",
+  "display": "Soulspinner"
+ },
+ "pakaa": {
+  "id": "ogn-135-298",
+  "display": "Pakaa Cub"
+ },
+ "spriteBurst": {
+  "id": "unl-069-219",
+  "display": "Sprite Burst"
+ },
+ "cloth": {
+  "id": "sfd-064-221",
+  "display": "Cloth Armor"
+ },
+ "dorans": {
+  "id": "sfd-095-221",
+  "display": "Doran's Blade"
+ },
+ "veteran": {
+  "id": "sfd-099-221",
+  "display": "Veteran Poro"
+ },
+ "feral": {
+  "id": "sfd-034-221",
+  "display": "Feral Strength"
+ },
+ "punching": {
+  "id": "ven-007-166",
+  "display": "Punching Poro"
+ },
+ "banner": {
+  "id": "rad-002-167",
+  "display": "Banner of Conquest"
+ },
+ "peddler": {
+  "id": "rad-054-167",
+  "display": "Trinket Peddler"
+ },
+ "construct": {
+  "id": "rad-011-167",
+  "display": "Incorrigible Construct"
+ },
+ "gemhand": {
+  "id": "unl-094-219",
+  "display": "Gemhand Hunter"
+ },
+ "rabadon": {
+  "id": "sfd-191-221",
+  "display": "Rabadon's Deathcrown"
+ },
+ "kaisaL": {
+  "id": "ogn-247-298",
+  "display": "Kai'Sa, Daughter of the Void"
+ },
+ "dianaL": {
+  "id": "unl-197-219",
+  "display": "Diana, Scorn of the Moon"
+ },
+ "dravenL": {
+  "id": "sfd-185-221",
+  "display": "Draven, Glorious Executioner"
+ },
+ "shenL": {
+  "id": "ven-147-166",
+  "display": "Shen, Eye of Twilight"
+ },
+ "ireliaL": {
+  "id": "sfd-195-221",
+  "display": "Irelia, Blade Dancer"
+ },
+ "yiL": {
+  "id": "unl-191-219",
+  "display": "Master Yi, Wuju Master"
+ },
+ "reksaiL": {
+  "id": "sfd-187-221",
+  "display": "Rek'Sai, Void Burrower"
+ },
+ "lilliaL": {
+  "id": "unl-189-219",
+  "display": "Lillia, Bashful Bloom"
+ },
+ "azirL": {
+  "id": "sfd-197-221",
+  "display": "Azir, Emperor of the Sands"
+ },
+ "viktorL": {
+  "id": "ogn-265-298",
+  "display": "Viktor, Herald of the Arcane"
+ },
+ "ezrealL": {
+  "id": "sfd-199-221",
+  "display": "Ezreal, Prodigal Explorer"
+ },
+ "kennenL": {
+  "id": "ven-155-166",
+  "display": "Kennen, Heart of the Tempest"
+ },
+ "leblancL": {
+  "id": "unl-199-219",
+  "display": "LeBlanc, Deceiver"
+ },
+ "dariusL": {
+  "id": "ogn-253-298",
+  "display": "Darius, Hand of Noxus"
+ },
+ "rengarL": {
+  "id": "unl-183-219",
+  "display": "Rengar, Pridestalker"
+ },
+ "targon": {
+  "id": "ogn-289-298",
+  "display": "Targon's Peak"
+ },
+ "grove": {
+  "id": "ogn-280-298",
+  "display": "Grove of the God-Willow"
+ },
+ "zaun": {
+  "id": "ogn-298-298",
+  "display": "Zaun Warrens"
+ },
+ "candle": {
+  "id": "ogn-291-298",
+  "display": "The Candlelit Sanctum"
+ },
+ "hoard": {
+  "id": "sfd-220-221",
+  "display": "Treasure Hoard"
+ },
+ "sigil": {
+  "id": "ogn-287-298",
+  "display": "Sigil of the Storm"
+ },
+ "monument": {
+  "id": "sfd-209-221",
+  "display": "Forgotten Monument"
+ },
+ "kinkou": {
+  "id": "ven-159-166",
+  "display": "Kinkou Temple"
+ },
+ "vilemaw": {
+  "id": "ogn-295-298",
+  "display": "Vilemaw's Lair"
+ },
+ "fortified": {
+  "id": "ogn-279-298",
+  "display": "Fortified Position"
+ },
+ "hillock": {
+  "id": "ogn-297-298",
+  "display": "Windswept Hillock"
+ },
+ "rockfall": {
+  "id": "sfd-216-221",
+  "display": "Rockfall Path"
+ },
+ "starspring": {
+  "id": "unl-215-219",
+  "display": "Star Spring"
+ },
+ "waste": {
+  "id": "unl-210-219",
+  "display": "Forbidding Waste"
+ },
+ "runeFury": {
+  "id": "ogn-007-298",
+  "display": "Fury Rune"
+ },
+ "runeCalm": {
+  "id": "ogn-042-298",
+  "display": "Calm Rune"
+ },
+ "runeMind": {
+  "id": "ogn-089-298",
+  "display": "Mind Rune"
+ },
+ "runeBody": {
+  "id": "ogn-126-298",
+  "display": "Body Rune"
+ },
+ "runeChaos": {
+  "id": "ogn-166-298",
+  "display": "Chaos Rune"
+ },
+ "runeOrder": {
+  "id": "ogn-214-298",
+  "display": "Order Rune"
+ },
+ "banCalledShot": {
+  "id": "sfd-122-221",
+  "display": "Called Shot"
+ },
+ "banDraven": {
+  "id": "sfd-020-221",
+  "display": "Draven, Vanquisher"
+ },
+ "banFightFlight": {
+  "id": "ogn-168-298",
+  "display": "Fight or Flight"
+ },
+ "banScrapheap": {
+  "id": "ogn-182-298",
+  "display": "Scrapheap"
+ },
+ "banPursuer": {
+  "id": "ogn-177-298",
+  "display": "Stealthy Pursuer"
+ },
+ "banEkko": {
+  "id": "ogn-110-298",
+  "display": "Ekko, Recurrent"
+ },
+ "banReavers": {
+  "id": "ogn-285-298",
+  "display": "Reaver's Row"
+ },
+ "banDreaming": {
+  "id": "ogn-292-298",
+  "display": "The Dreaming Tree"
+ },
+ "banObelisk": {
+  "id": "ogn-284-298",
+  "display": "Obelisk of Power"
+ },
+ "banArena": {
+  "id": "ogn-290-298",
+  "display": "The Arena's Greatest"
+ },
+ "banClimb": {
+  "id": "ogn-276-298",
+  "display": "Aspirant's Climb"
+ }
+}

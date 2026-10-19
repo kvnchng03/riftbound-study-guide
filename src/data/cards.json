@@ -1,0 +1,1884 @@
+{
+ "kaisa": {
+  "id": "ogn-039-298",
+  "name": "Kai'Sa, Survivor",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "fury"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3d942c02ad4e96a36dba14d663c5105bb6614500-744x1039.png?accountingTag=RB"
+ },
+ "hopeful": {
+  "id": "ogn-012-298",
+  "name": "Noxus Hopeful",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c3bb6f4cb58feeb50e396d12ec9865c5434025af-744x1039.png?accountingTag=RB"
+ },
+ "forer": {
+  "id": "sfd-021-221",
+  "name": "Ferrous Forerunner",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b2873a352c0158a677255894cec458d1c17709f7-744x1039.png?accountingTag=RB"
+ },
+ "tideturner": {
+  "id": "ogn-199-298",
+  "name": "Tideturner",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bad355dba8b32d1fba33dc3924cad6a34b61b5af-744x1039.png?accountingTag=RB"
+ },
+ "herder": {
+  "id": "sfd-048-221",
+  "name": "Stellacorn Herder",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7960a35d45dd55e934260ea23307853aa5afd4-744x1039.png?accountingTag=RB"
+ },
+ "scuttle": {
+  "id": "unl-053-219",
+  "name": "Scuttle Crab",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 0,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8c9a251b2deb21716fba0ac83c6aac96563fa19d-744x1039.png?accountingTag=RB"
+ },
+ "vex": {
+  "id": "unl-150-219",
+  "name": "Vex, Apathetic",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f13b0216c5d805400bb64cf26cd119acfc6c5ca-744x1039.png?accountingTag=RB"
+ },
+ "watcher": {
+  "id": "ogn-116-298",
+  "name": "Thousand-Tailed Watcher",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b20e5644c33924a58e0497dd9f7db19723147003-744x1039.png?accountingTag=RB"
+ },
+ "fan": {
+  "id": "sfd-128-221",
+  "name": "Overzealous Fan",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/922d7f337fbf14f0d62d43f69ca2a1e7480dd022-744x1039.png?accountingTag=RB"
+ },
+ "yasuo": {
+  "id": "ogn-076-298",
+  "name": "Yasuo, Remorseful",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "calm"
+  ],
+  "energy": 6,
+  "power": 2,
+  "might": 6,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1643a6c93626884c93363557e1a483642bda6c45-744x1039.png?accountingTag=RB"
+ },
+ "dianaLunari": {
+  "id": "unl-079-219",
+  "name": "Diana, Lunari",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "mind"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e284397713abb21d2c8d9b85202ab65d21689e9-744x1039.png?accountingTag=RB"
+ },
+ "hwei": {
+  "id": "unl-080-219",
+  "name": "Hwei, Brooding Painter",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "mind"
+  ],
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ddbb13ba5617cc443b9a3a51485b1697da570121-744x1039.png?accountingTag=RB"
+ },
+ "porobot": {
+  "id": "ven-058-166",
+  "name": "Patched Porobot",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7667d7e0c902782c38221e9326d1bb98181ec17f-744x1039.png?accountingTag=RB"
+ },
+ "shen": {
+  "id": "ogn-241-298",
+  "name": "Shen, Kinkou",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "order"
+  ],
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/25f3a9fa33201278ebf475b2d02dae8c0c0cb20c-744x1039.png?accountingTag=RB"
+ },
+ "stalwart": {
+  "id": "ogn-052-298",
+  "name": "Stalwart Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4a5d7178e783c3975749271b6df333a82a2328a-744x1039.png?accountingTag=RB"
+ },
+ "recruit": {
+  "id": "ven-t04",
+  "name": "Recruit",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "token"
+  ],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": 1,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08b9ccf225fc2ae9eb9b5668e5361b09789210ee-744x1039.png?accountingTag=RB"
+ },
+ "sprite": {
+  "id": "unl-t07",
+  "name": "Sprite",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "token"
+  ],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1a90578f055e01515ebfb069dc3dbdba08d24da0-744x1039.png?accountingTag=RB"
+ },
+ "gold": {
+  "id": "sfd-t03",
+  "name": "Gold",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [
+   "token"
+  ],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e878c39b562a4e870e93b819c6d85cdf3fdc5238-744x1039.png?accountingTag=RB"
+ },
+ "discipline": {
+  "id": "ogn-058-298",
+  "name": "Discipline",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b9613970b505e3ad6abe2d51d091778314a7d48-744x1039.png?accountingTag=RB"
+ },
+ "defy": {
+  "id": "ogn-045-298",
+  "name": "Defy",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4989bfcc4bd7be77051f0c2c349a981ba9c273e0-744x1039.png?accountingTag=RB"
+ },
+ "gust": {
+  "id": "ogn-169-298",
+  "name": "Gust",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dfd3b161ab76ba0c5d503384f1289b3395434b10-744x1039.png?accountingTag=RB"
+ },
+ "cleave": {
+  "id": "ogn-004-298",
+  "name": "Cleave",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/95d476a1e88ff547fb846149619177bc7e3cea9f-744x1039.png?accountingTag=RB"
+ },
+ "odds": {
+  "id": "sfd-001-221",
+  "name": "Against the Odds",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4c4ab0c838854ccd5d5399a045835876450287e8-744x1039.png?accountingTag=RB"
+ },
+ "stupefy": {
+  "id": "ogn-095-298",
+  "name": "Stupefy",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/837a5976192bbf8bdb4086429802167548ecc119-744x1039.png?accountingTag=RB"
+ },
+ "falling": {
+  "id": "ogn-029-298",
+  "name": "Falling Star",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 2,
+  "power": 2,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9cf2d2e59e1bf839cdf5c2a77e95f5d1e871788f-744x1039.png?accountingTag=RB"
+ },
+ "ride": {
+  "id": "ogn-173-298",
+  "name": "Ride the Wind",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/864d9f8992db7f9a9e795d9438d941ca564ddde7-744x1039.png?accountingTag=RB"
+ },
+ "ray": {
+  "id": "ogn-009-298",
+  "name": "Hextech Ray",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e7d12693822c38377ddc8f15db23e2f9b6d560a-744x1039.png?accountingTag=RB"
+ },
+ "punch": {
+  "id": "sfd-097-221",
+  "name": "Punch First",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 1,
+  "power": 2,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d124efad90ff61d4ac29ee69fe71e48a7cd6ece2-744x1039.png?accountingTag=RB"
+ },
+ "moonfall": {
+  "id": "unl-198-219",
+  "name": "Moonfall",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [
+   "signature"
+  ],
+  "domains": [
+   "mind",
+   "chaos"
+  ],
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2eda8d4bbee47857b1916599b5c7d5fa7ca400dc-744x1039.png?accountingTag=RB"
+ },
+ "stacked": {
+  "id": "ogn-183-298",
+  "name": "Stacked Deck",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fdcb22cb620a4c1c37920d6b744edb615647cbd4-744x1039.png?accountingTag=RB"
+ },
+ "wages": {
+  "id": "sfd-070-221",
+  "name": "Wages of Pain",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aef5c891bd6f7cbc3a97b1e01688868316599929-744x1039.png?accountingTag=RB"
+ },
+ "lullaby": {
+  "id": "unl-190-219",
+  "name": "Lilting Lullaby",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [
+   "signature"
+  ],
+  "domains": [
+   "calm",
+   "mind"
+  ],
+  "energy": 2,
+  "power": 2,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/272b71b493575e38ff8888ec187cd33e54c0eacc-744x1039.png?accountingTag=RB"
+ },
+ "abandon": {
+  "id": "unl-131-219",
+  "name": "Abandon",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/89929cfa4417c99576477793529c6808af145919-744x1039.png?accountingTag=RB"
+ },
+ "dredge": {
+  "id": "ven-049-166",
+  "name": "Dredge Up",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cf561c8a0f8debde66b66d3e74ce861d0ce388ae-744x1039.png?accountingTag=RB"
+ },
+ "singularity": {
+  "id": "ogn-105-298",
+  "name": "Singularity",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 6,
+  "power": 2,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/792edce1a64d4a92740aa3fa240e21e161513944-744x1039.png?accountingTag=RB"
+ },
+ "progress": {
+  "id": "ogn-114-298",
+  "name": "Progress Day",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 6,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b15f479a8f29e31b6e4c06cf2d7c8cb8630073ef-744x1039.png?accountingTag=RB"
+ },
+ "hardBargain": {
+  "id": "sfd-136-221",
+  "name": "Hard Bargain",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png?accountingTag=RB"
+ },
+ "eclipse": {
+  "id": "unl-063-219",
+  "name": "Eclipse",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9fcef3d1d7de3c219aabcab88d0550c9d8cd4311-744x1039.png?accountingTag=RB"
+ },
+ "flash": {
+  "id": "ogs-011-024",
+  "name": "Flash",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4d9cc1c13b75933e509e642213f13359350cd3f9-744x1039.png?accountingTag=RB"
+ },
+ "charm": {
+  "id": "ogn-043-298",
+  "name": "Charm",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62ae564505db8fcba70605eac2083ac2d4397b5a-744x1039.png?accountingTag=RB"
+ },
+ "voidseeker": {
+  "id": "ogn-024-298",
+  "name": "Void Seeker",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b64b63c6be58ff3c33c7fb3c2dcb168d64e287e-744x1039.png?accountingTag=RB"
+ },
+ "flourish": {
+  "id": "unl-073-219",
+  "name": "Deadly Flourish",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81195df7122beaba38ebc8b8212ceb0e7593afe9-744x1039.png?accountingTag=RB"
+ },
+ "morbid": {
+  "id": "ogn-170-298",
+  "name": "Morbid Return",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33b5ca4e580b94f2056bd884a4a35e8c630920a2-744x1039.png?accountingTag=RB"
+ },
+ "zhonya": {
+  "id": "ogn-077-298",
+  "name": "Zhonya's Hourglass",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dc38172c56f838b407fc9f170ba973da32d7cd4d-744x1039.png?accountingTag=RB"
+ },
+ "pack": {
+  "id": "ogn-181-298",
+  "name": "Pack of Wonders",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a0830f326c49abe7fb1d3c9787e7ce5d7b776eec-744x1039.png?accountingTag=RB"
+ },
+ "trove": {
+  "id": "ogn-186-298",
+  "name": "Treasure Trove",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/682f5ee828ede4dbaf428cd0666db64ee8bae722-744x1039.png?accountingTag=RB"
+ },
+ "aurora": {
+  "id": "ogn-160-298",
+  "name": "Dazzling Aurora",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 9,
+  "power": 2,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c023856a50c75058465f283d181277ce265ba108-744x1039.png?accountingTag=RB"
+ },
+ "promoter": {
+  "id": "unl-043-219",
+  "name": "Enthusiastic Promoter",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c03bdc371440cbf6de773b0b39010808bfdecea1-744x1039.png?accountingTag=RB"
+ },
+ "revna": {
+  "id": "unl-005-219",
+  "name": "Revna the Lorekeeper",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8e251eed411d614de504480181b357df3f78b133-744x1039.png?accountingTag=RB"
+ },
+ "pouty": {
+  "id": "ogn-013-298",
+  "name": "Pouty Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d541bf3bcb5aa3ad0d48d87f5753569b72ac426f-744x1039.png?accountingTag=RB"
+ },
+ "sentry": {
+  "id": "ogn-096-298",
+  "name": "Watchful Sentry",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d84da2c62b1e218a0a74b227c49ce8a953918ebd-744x1039.png?accountingTag=RB"
+ },
+ "mystic": {
+  "id": "ogn-171-298",
+  "name": "Mystic Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/11af57d045768e886d05e1c0933b0d57cb1e459d-744x1039.png?accountingTag=RB"
+ },
+ "gloryseeker": {
+  "id": "ogn-217-298",
+  "name": "Trifarian Gloryseeker",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "order"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19ad6a0e743b56021b9651a2105034a488e172e8-744x1039.png?accountingTag=RB"
+ },
+ "gromp": {
+  "id": "unl-100-219",
+  "name": "Voracious Gromp",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c006b8c9aa4581ad90c258cc6cfac9098d3c296-744x1039.png?accountingTag=RB"
+ },
+ "daring": {
+  "id": "ogn-210-298",
+  "name": "Daring Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "order"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/41dee7ec46124c261352595cfbd8a6d38d32b947-744x1039.png?accountingTag=RB"
+ },
+ "soulspinner": {
+  "id": "ven-123-166",
+  "name": "Soulspinner",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "order"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9a23a1f2c83751c2a715049be32c2482ea10454d-744x1039.png?accountingTag=RB"
+ },
+ "pakaa": {
+  "id": "ogn-135-298",
+  "name": "Pakaa Cub",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/156a66d7d44165367cc5a470fb35c86f337f9429-744x1039.png?accountingTag=RB"
+ },
+ "spriteBurst": {
+  "id": "unl-069-219",
+  "name": "Sprite Burst",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 5,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4427ceffae1c3e7b012167461ce7c080bb2c1fe4-744x1039.png?accountingTag=RB"
+ },
+ "cloth": {
+  "id": "sfd-064-221",
+  "name": "Cloth Armor",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 1,
+  "power": null,
+  "might": 0,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fe02bf01609ff2e6cc6fa8fbd578fd596ab5cb84-744x1039.png?accountingTag=RB"
+ },
+ "dorans": {
+  "id": "sfd-095-221",
+  "name": "Doran's Blade",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/53fc0c307c83871c9755a496764ef7d6aa11f510-744x1039.png?accountingTag=RB"
+ },
+ "veteran": {
+  "id": "sfd-099-221",
+  "name": "Veteran Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54b8aa5aa80e74e0c545d4c484353c5b9e78bdfc-744x1039.png?accountingTag=RB"
+ },
+ "feral": {
+  "id": "sfd-034-221",
+  "name": "Feral Strength",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f07842b38914f6bc73235fe07788a3fce89b4785-744x1039.png?accountingTag=RB"
+ },
+ "punching": {
+  "id": "ven-007-166",
+  "name": "Punching Poro",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03b9a8e704e0f09b686d89d4c2d79f100f212b0f-744x1039.png?accountingTag=RB"
+ },
+ "banner": {
+  "id": "rad-002-167",
+  "name": "Banner of Conquest",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1e2a4e0a8cf533c82e9c3f4d507dd7eb63ece943-744x1039.png?accountingTag=RB"
+ },
+ "peddler": {
+  "id": "rad-054-167",
+  "name": "Trinket Peddler",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind"
+  ],
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/78106b7cea441b13d108e532adc5ce063f448165-744x1039.png?accountingTag=RB"
+ },
+ "construct": {
+  "id": "rad-011-167",
+  "name": "Incorrigible Construct",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e95470d5c2fbc9f7f8ab0b1c19f32fd704918c83-744x1039.png?accountingTag=RB"
+ },
+ "gemhand": {
+  "id": "unl-094-219",
+  "name": "Gemhand Hunter",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "body"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d824d666dc5f50c3c513c3f9722f6eafe21c6289-744x1039.png?accountingTag=RB"
+ },
+ "rabadon": {
+  "id": "sfd-191-221",
+  "name": "Rabadon's Deathcrown",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [
+   "signature"
+  ],
+  "domains": [
+   "calm",
+   "mind"
+  ],
+  "energy": 4,
+  "power": 2,
+  "might": 3,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e93d11bdae446762b1932f0327d2ffe489fa4481-744x1039.png?accountingTag=RB"
+ },
+ "kaisaL": {
+  "id": "ogn-247-298",
+  "name": "Kai'Sa, Daughter of the Void",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury",
+   "mind"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3ea826277086945a2cdfda4e41b771075aa8b15b-744x1039.png?accountingTag=RB"
+ },
+ "dianaL": {
+  "id": "unl-197-219",
+  "name": "Diana, Scorn of the Moon",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind",
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b00d922d62daca19190e13149fe3cf725c900330-744x1039.png?accountingTag=RB"
+ },
+ "dravenL": {
+  "id": "sfd-185-221",
+  "name": "Draven, Glorious Executioner",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury",
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b01b2d0454ceeffdc106c4c64a390b275ebf390b-744x1039.png?accountingTag=RB"
+ },
+ "shenL": {
+  "id": "ven-147-166",
+  "name": "Shen, Eye of Twilight",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54388a3124b7e1f0331e5970f952778db5f24500-744x1039.png?accountingTag=RB"
+ },
+ "ireliaL": {
+  "id": "sfd-195-221",
+  "name": "Irelia, Blade Dancer",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm",
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656ef2d1724b818e9e737ec5dcce923de067a316-744x1039.png?accountingTag=RB"
+ },
+ "yiL": {
+  "id": "unl-191-219",
+  "name": "Master Yi, Wuju Master",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm",
+   "body"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed9af55066593b4ee738b9529b847f2f738078e0-744x1039.png?accountingTag=RB"
+ },
+ "reksaiL": {
+  "id": "sfd-187-221",
+  "name": "Rek'Sai, Void Burrower",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2db78549c30d8f9012af797fe075c4dc2355ec5d-744x1039.png?accountingTag=RB"
+ },
+ "lilliaL": {
+  "id": "unl-189-219",
+  "name": "Lillia, Bashful Bloom",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm",
+   "mind"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7e1554365120c5042947aef8bcac48a07445e9f3-744x1039.png?accountingTag=RB"
+ },
+ "azirL": {
+  "id": "sfd-197-221",
+  "name": "Azir, Emperor of the Sands",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "calm",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0472274c49f6540858758ebf9bd2f107a601541a-744x1039.png?accountingTag=RB"
+ },
+ "viktorL": {
+  "id": "ogn-265-298",
+  "name": "Viktor, Herald of the Arcane",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/913236dabf1e4f71650bbba46870fff8163e2eff-744x1039.png?accountingTag=RB"
+ },
+ "ezrealL": {
+  "id": "sfd-199-221",
+  "name": "Ezreal, Prodigal Explorer",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind",
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d0e143d9edbc14971b2a7b463b3c25b2b6a0c098-744x1039.png?accountingTag=RB"
+ },
+ "kennenL": {
+  "id": "ven-155-166",
+  "name": "Kennen, Heart of the Tempest",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "order",
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0eab83392b310417d2630d50a3bfee3dd02b31c4-744x1039.png?accountingTag=RB"
+ },
+ "leblancL": {
+  "id": "unl-199-219",
+  "name": "LeBlanc, Deceiver",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "mind",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c17d29602d61d6702372fec4db44c6fb2a29e8a2-744x1039.png?accountingTag=RB"
+ },
+ "dariusL": {
+  "id": "ogn-253-298",
+  "name": "Darius, Hand of Noxus",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury",
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b9a904048b7fb936377844ec2d31564b7fedf81-744x1039.png?accountingTag=RB"
+ },
+ "rengarL": {
+  "id": "unl-183-219",
+  "name": "Rengar, Pridestalker",
+  "type": [
+   "legend"
+  ],
+  "supertypes": [],
+  "domains": [
+   "fury",
+   "body"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b3d3085f62aee993b9f5b80d4659a88439da83be-744x1039.png?accountingTag=RB"
+ },
+ "targon": {
+  "id": "ogn-289-298",
+  "name": "Targon's Peak",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6ff1b34ad231645910f670496e1662de0b545a44-1038x744.png?accountingTag=RB"
+ },
+ "grove": {
+  "id": "ogn-280-298",
+  "name": "Grove of the God-Willow",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1574863000ab23d69cbd388a32b1a09f29f78d5f-1038x744.png?accountingTag=RB"
+ },
+ "zaun": {
+  "id": "ogn-298-298",
+  "name": "Zaun Warrens",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/458ee40086c77b43b98c2decbaf33a4aa2359bb9-1038x744.png?accountingTag=RB"
+ },
+ "candle": {
+  "id": "ogn-291-298",
+  "name": "The Candlelit Sanctum",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f14fe78f2b7f3909eadb07bce24bd582e190653d-1038x744.png?accountingTag=RB"
+ },
+ "hoard": {
+  "id": "sfd-220-221",
+  "name": "Treasure Hoard",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cb39bf9f8c30d1ed756ba1b83c975a89d3635159-1039x744.png?accountingTag=RB"
+ },
+ "sigil": {
+  "id": "ogn-287-298",
+  "name": "Sigil of the Storm",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b795e7a2af421aabc01dc6f35c0b5d547fe3c0e-1038x744.png?accountingTag=RB"
+ },
+ "monument": {
+  "id": "sfd-209-221",
+  "name": "Forgotten Monument",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b0c98558fccd68c9ac93cd5b3412c31c68b5ace9-1039x744.png?accountingTag=RB"
+ },
+ "kinkou": {
+  "id": "ven-159-166",
+  "name": "Kinkou Temple",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/afef083faa1f3813e5744a552c9873c798bedfd5-1039x744.png?accountingTag=RB"
+ },
+ "vilemaw": {
+  "id": "ogn-295-298",
+  "name": "Vilemaw's Lair",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f374b90a0bec11a5f423e7d4ebd869ab1a146471-1038x744.png?accountingTag=RB"
+ },
+ "fortified": {
+  "id": "ogn-279-298",
+  "name": "Fortified Position",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/45363bbd907f4f3717868cb04b3cfed814b3bb32-1038x744.png?accountingTag=RB"
+ },
+ "hillock": {
+  "id": "ogn-297-298",
+  "name": "Windswept Hillock",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aba557a4053fd76c6aa95b2b907ec682bad70d9f-1038x744.png?accountingTag=RB"
+ },
+ "rockfall": {
+  "id": "sfd-216-221",
+  "name": "Rockfall Path",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a1bde66bccf2786e7c0b9d44fcdcdaa6b59f0328-1039x744.png?accountingTag=RB"
+ },
+ "starspring": {
+  "id": "unl-215-219",
+  "name": "Star Spring",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c4fe88ffb5c1b02b58b2c6b4f02de441ac451d6-1039x744.png?accountingTag=RB"
+ },
+ "waste": {
+  "id": "unl-210-219",
+  "name": "Forbidding Waste",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/83dbc88d462da85be9398c790e88ff13da8637d4-1039x744.png?accountingTag=RB"
+ },
+ "runeFury": {
+  "id": "ogn-007-298",
+  "name": "Fury Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "fury"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png?accountingTag=RB"
+ },
+ "runeCalm": {
+  "id": "ogn-042-298",
+  "name": "Calm Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "calm"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB"
+ },
+ "runeMind": {
+  "id": "ogn-089-298",
+  "name": "Mind Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "mind"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png?accountingTag=RB"
+ },
+ "runeBody": {
+  "id": "ogn-126-298",
+  "name": "Body Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "body"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3b3c3c07626d6180457c849047e0228dc0d19539-744x1039.png?accountingTag=RB"
+ },
+ "runeChaos": {
+  "id": "ogn-166-298",
+  "name": "Chaos Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "chaos"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/daf23b0deaa5e1a5a5d310b59e9ad25d1bd70363-744x1039.png?accountingTag=RB"
+ },
+ "runeOrder": {
+  "id": "ogn-214-298",
+  "name": "Order Rune",
+  "type": [
+   "rune"
+  ],
+  "supertypes": [
+   "basic"
+  ],
+  "domains": [
+   "order"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png?accountingTag=RB"
+ },
+ "banCalledShot": {
+  "id": "sfd-122-221",
+  "name": "Called Shot",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 0,
+  "power": 1,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8fb07f0b3c0c697e324fb016f4cf7e4288aa4594-744x1039.png?accountingTag=RB"
+ },
+ "banDraven": {
+  "id": "sfd-020-221",
+  "name": "Draven, Vanquisher",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "fury"
+  ],
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8e49e0b83df68f37a15bf704b83475144fd9ef92-744x1039.png?accountingTag=RB"
+ },
+ "banFightFlight": {
+  "id": "ogn-168-298",
+  "name": "Fight or Flight",
+  "type": [
+   "spell"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2e7c7ad72889878e2dd5932d203814b185e74a87-744x1039.png?accountingTag=RB"
+ },
+ "banScrapheap": {
+  "id": "ogn-182-298",
+  "name": "Scrapheap",
+  "type": [
+   "gear"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0c059786e89a2443221b7c0b8ca39779dcc9c755-744x1038.png?accountingTag=RB"
+ },
+ "banPursuer": {
+  "id": "ogn-177-298",
+  "name": "Stealthy Pursuer",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [],
+  "domains": [
+   "chaos"
+  ],
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ab23fd84badd67e9981512acbe6c3e9a8f97f42d-744x1039.png?accountingTag=RB"
+ },
+ "banEkko": {
+  "id": "ogn-110-298",
+  "name": "Ekko, Recurrent",
+  "type": [
+   "unit"
+  ],
+  "supertypes": [
+   "champion"
+  ],
+  "domains": [
+   "mind"
+  ],
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "orientation": "portrait",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/65da19325b6def53d33c07bc1aa8f91fd2f1e723-744x1039.png?accountingTag=RB"
+ },
+ "banReavers": {
+  "id": "ogn-285-298",
+  "name": "Reaver's Row",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7d99fe84c9b815463198b5dbad694759940cac12-1038x744.png?accountingTag=RB"
+ },
+ "banDreaming": {
+  "id": "ogn-292-298",
+  "name": "The Dreaming Tree",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f382c2c2442959f2a8905de2be7d202458918a04-1040x744.png?accountingTag=RB"
+ },
+ "banObelisk": {
+  "id": "ogn-284-298",
+  "name": "Obelisk of Power",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0ef4890cdc3145616fcf41290a13c63b1afe4e0d-1038x744.png?accountingTag=RB"
+ },
+ "banArena": {
+  "id": "ogn-290-298",
+  "name": "The Arena's Greatest",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2afd8bdfdd42b1595af0746a6c6b92879ac770d6-1038x744.png?accountingTag=RB"
+ },
+ "banClimb": {
+  "id": "ogn-276-298",
+  "name": "Aspirant's Climb",
+  "type": [
+   "battlefield"
+  ],
+  "supertypes": [],
+  "domains": [
+   "colorless"
+  ],
+  "energy": null,
+  "power": null,
+  "might": null,
+  "orientation": "landscape",
+  "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9301593f3800e68427469d38181b578a672473c3-1038x744.png?accountingTag=RB"
+ }
+}
