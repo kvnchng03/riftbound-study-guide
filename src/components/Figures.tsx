@@ -30,7 +30,7 @@ export function Overview() {
 export function DeckParts() {
   return (
     <>
-      <div className="row" style={{ gap: 18 }}>
+      <div className="row" style={{ gap: 18, alignItems: 'flex-start' }}>
         <div className="group"><span className="gl">Legend · 1</span><Card k="kaisaL" size="md" /></div>
         <div className="group"><span className="gl">Chosen Champion · 1</span><Card k="kaisa" size="md" /></div>
         <div className="group"><span className="gl">Main deck · 40</span><DeckStack count={40} label="40-card main deck" /><span className="gs">units, spells, gear</span></div>
@@ -59,12 +59,12 @@ export function DeckParts() {
 
 /* ---------- Chapter 3: reading a real card ---------- */
 const SPOTS: { n: number; x: number; y: number; title: string; text: string }[] = [
-  { n: 1, x: 11, y: 9, title: 'Energy cost', text: 'Turn this many runes sideways to pay it. Kai’Sa costs 4.' },
-  { n: 2, x: 86, y: 9, title: 'Might', text: 'Her damage and her toughness: 4.' },
-  { n: 3, x: 97, y: 54, title: 'Type line', text: 'Champion unit, plus tags like her champion name.' },
-  { n: 4, x: 3, y: 60, title: 'Name', text: 'The full name includes the subtitle: "Kai’Sa, Survivor".' },
-  { n: 5, x: 3, y: 73, title: 'Keyword', text: 'Accelerate: pay 1 energy + 1 Fury power extra and she enters ready.' },
-  { n: 6, x: 97, y: 81, title: 'Rules text', text: 'When she takes a battlefield, draw a card.' }
+  { n: 1, x: 11, y: 0, title: 'Energy cost', text: 'Turn this many runes sideways to pay it. Kai’Sa costs 4.' },
+  { n: 2, x: 86, y: 0, title: 'Might', text: 'Her damage and her toughness: 4.' },
+  { n: 3, x: 100, y: 54, title: 'Type line', text: 'Champion unit, plus tags like her champion name.' },
+  { n: 4, x: 0, y: 60, title: 'Name', text: 'The full name includes the subtitle: "Kai’Sa, Survivor".' },
+  { n: 5, x: 0, y: 73, title: 'Keyword', text: 'Accelerate: pay 1 energy + 1 Fury power extra and she enters ready.' },
+  { n: 6, x: 100, y: 81, title: 'Rules text', text: '"When I conquer, draw 1": when she takes a battlefield, draw a card.' }
 ];
 export function Anatomy() {
   return (
@@ -75,7 +75,7 @@ export function Anatomy() {
       </div>
       <ol className="steps" style={{ flex: '1 1 260px', marginTop: 4 }}>
         {SPOTS.map((s) => <li key={s.n}><b>{s.title}.</b> {s.text}</li>)}
-        <li><b>Power cost.</b> Coloured symbols under the energy cost (Kai’Sa has none). Falling Star, right, needs 2 Fury power on top of 2 energy.</li>
+        <li><b>Power cost.</b> Coloured symbols under the energy cost (Kai’Sa has none). Falling Star, the first card below, needs 2 Fury power on top of 2 energy.</li>
       </ol>
     </div>
   );
