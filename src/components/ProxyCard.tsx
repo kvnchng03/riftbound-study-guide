@@ -19,8 +19,7 @@ function splitName(name: string): [string, string | null] {
 
 /**
  * A card drawn from Riot's real card data (name, costs, might, colours) with a short
- * paraphrase of its effect. Used instead of official card art unless the app is
- * authorised to show Riot's art (see README).
+ * paraphrase of its effect. Stands in for the official card image when it can't load.
  */
 export function ProxyCard({ k, detail = false }: { k: CardKey; detail?: boolean }) {
   const c = card(k);

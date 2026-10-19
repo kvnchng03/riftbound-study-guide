@@ -9,17 +9,17 @@ It teaches the rules with real cards and step-through diagrams, then the strateg
 
 - 25 chapters in four parts: learn the rules, learn to think, build decks, get better.
 - Step-through examples you can tap, swipe or arrow-key through: a real combat, the Chain resolving, the point-tempo race.
-- Every card shown is a real card, built from Riot's official card data, with a link to the official card gallery.
+- Every card shown is a real card with its official image, and a link to it in the official card gallery.
 - Study plan with saved progress, flashcards, and timestamped links into each video.
 - Light and dark themes, a phone-first layout, and a PWA you can install and use offline.
 
 ## Card art and Riot's policy
 
-Riot's [Riftbound developer policy](https://developer.riotgames.com/policies/riftbound) allows fan apps to show card art only when it comes through the Riot API, and every app needs Riot's approval (a written license or an app-specific API key).
-Until this app is approved, cards are drawn as **proxies**: an original card frame filled with the real name, costs, might and colours from Riot's public card data, plus a short paraphrase of the effect. No card art is copied into this repository.
+Every card shows Riot's official card image, loaded from Riot's CDN (the same source as the official card gallery) at the size each layout needs and cached for offline use.
+No card art is copied into this repository.
+If an image can't load, for example offline before it was ever viewed, the card falls back to a **proxy**: an original frame filled with the real name, costs, might and colours from Riot's public card data, plus a short paraphrase of the effect from `src/data/card-notes.json`.
 
-When the app is authorised, set the repository variable `CARD_ART` to `official` (Settings → Secrets and variables → Actions → Variables).
-The next deploy switches every card to Riot's official images, loaded from Riot's CDN at the size each layout needs and cached for offline use.
+Riot's [Riftbound developer policy](https://developer.riotgames.com/policies/riftbound) asks fan apps to register with Riot and to use only card assets provided by the Riot API.
 
 Riftbound Study Guide was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
 

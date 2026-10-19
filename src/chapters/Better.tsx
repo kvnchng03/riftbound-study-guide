@@ -2,7 +2,6 @@ import { Zoom } from '../components/Charts';
 import { Chapter, Figure, Keys, Part, V, Watch } from '../components/Blocks';
 import { Flashcards } from '../components/Flashcards';
 import { IconPlay } from '../components/Icons';
-import { OFFICIAL_ART } from '../components/Card';
 import { VIDEOS } from '../data/content';
 
 export function BetterPart() {
@@ -61,9 +60,7 @@ export function BetterPart() {
         </ul>
         <footer>
           <p>Riftbound Study Guide was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.</p>
-          <p>{OFFICIAL_ART
-            ? 'Card images are served by Riot Games.'
-            : 'Card frames here are drawn from Riot’s official card data with short paraphrased effects; they are not Riot’s card art. Tap any card for a link to the real card in the official gallery.'}{' '}
+          <p>Card images are served by Riot Games. Tap any card for a link to it in the official gallery.
             Strategy notes reflect the Vendetta-era meta and will change as new sets and bans land.</p>
         </footer>
       </Chapter>

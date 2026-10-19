@@ -98,7 +98,7 @@ main{min-width:0;padding-block:36px calc(120px + env(safe-area-inset-bottom,0px)
 .rc{--w:clamp(52px,16cqw,120px);position:relative;margin:0;display:inline-flex;flex-direction:column;align-items:center;gap:6px;flex:none;vertical-align:top}
 .rc.xs{--w:clamp(24px,8cqw,66px)} .rc.sm{--w:clamp(46px,13cqw,96px)} .rc.md{--w:clamp(58px,18cqw,132px)} .rc.lg{--w:clamp(110px,34cqw,240px)} .rc.xl{--w:clamp(150px,52cqw,320px)}
 .rc.land{--w:clamp(96px,30cqw,230px)} .rc.land.sm{--w:clamp(80px,22cqw,170px)} .rc.land.lg{--w:clamp(140px,46cqw,320px)}
-.rc-hit{display:block;border:0;padding:0;background:none;border-radius:calc(var(--w) * .05);line-height:0}
+.rc-hit{position:relative;display:block;border:0;padding:0;background:none;border-radius:calc(var(--w) * .05);line-height:0}
 .rc-frame{display:block;width:var(--w);aspect-ratio:744/1039;border-radius:calc(var(--w) * .05);overflow:hidden;background:var(--mat);box-shadow:0 1px 2px rgba(0,0,0,.18),0 4px 12px rgba(0,0,0,.10);transition:transform .25s,opacity .25s,filter .25s}
 .rc.land .rc-frame{aspect-ratio:1038/744}
 .rc-frame img{width:100%;height:100%;object-fit:cover;display:block}
@@ -113,7 +113,8 @@ main{min-width:0;padding-block:36px calc(120px + env(safe-area-inset-bottom,0px)
 .badges{position:absolute;top:-8px;right:-8px;display:flex;flex-direction:column;gap:4px;z-index:2}
 .badge{min-width:28px;height:28px;padding:0 6px;border-radius:14px;display:inline-grid;place-items:center;font-size:13.5px;font-weight:700;background:var(--paper);border:2px solid var(--ink-3);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.2)}
 .badge.buff{border-color:var(--green);color:var(--green)} .badge.damage{border-color:var(--red);color:var(--red)} .badge.point{border-color:var(--accent);color:var(--accent)}
-.rc .tag{position:absolute;left:50%;transform:translateX(-50%);bottom:calc(100% + 4px);font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--gold);background:var(--gold-soft);border-radius:4px;padding:1px 6px;white-space:nowrap}
+/* Straddles the card's bottom edge: the top corners carry the cost, might and badges. */
+.rc .tag{position:absolute;left:50%;top:100%;transform:translate(-50%,-50%);z-index:1;line-height:1.4;font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--gold);background:var(--gold-soft);border-radius:4px;padding:1px 6px;white-space:nowrap}
 .hotspot{position:absolute;width:24px;height:24px;margin:-12px 0 0 -12px;border-radius:50%;background:var(--accent);color:#fff;font-size:13px;font-weight:700;display:grid;place-items:center;box-shadow:0 0 0 3px rgba(255,255,255,.85),0 2px 6px rgba(0,0,0,.35);pointer-events:none}
 
 /* stacks and slots */
@@ -235,7 +236,7 @@ footer{margin-top:72px;padding-top:20px;border-top:1px solid var(--rule);font-si
 footer p{margin:0 0 10px}
 
 /* ---------- lightbox, toast, install ---------- */
-.lightbox{position:fixed;inset:0;z-index:60;background:rgba(8,10,14,.82);display:grid;place-items:center;padding:calc(20px + env(safe-area-inset-top,0px)) 16px calc(20px + env(safe-area-inset-bottom,0px))}
+.lightbox{position:fixed;inset:0;z-index:60;background:rgba(8,10,14,.86);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);display:grid;place-items:center;padding:calc(20px + env(safe-area-inset-top,0px)) 16px calc(20px + env(safe-area-inset-bottom,0px))}
 .lightbox figure{margin:0;display:flex;flex-direction:column;align-items:center;gap:12px;max-width:min(92vw,560px)}
 .lightbox img{max-height:72vh;width:auto;border-radius:14px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
 .lightbox img.land{max-width:min(92vw,720px);max-height:60vh}
