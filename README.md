@@ -50,4 +50,4 @@ Pull requests run the same checks without deploying.
 
 Strategy content summarises videos by [Daremx](https://www.youtube.com/channel/UCQuktggUvXsbOyt8xh0FaeA).
 Rules follow Riot's official [Core Rules and Tournament Rules](https://playriftbound.com/en-us/rules-hub/).
-Code is MIT licensed (see `LICENSE`); Riftbound names, card data and art belong to Riot Games.
+Code is MIT licensed (see `LICENSE`); Riftbound names, the Riftbound logo, card data and art belong to Riot Games.

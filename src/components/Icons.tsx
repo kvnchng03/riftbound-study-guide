@@ -11,4 +11,5 @@ export const IconSun = (p: SVGProps<SVGSVGElement>) => <svg {...base} viewBox="0
 export const IconMoon = (p: SVGProps<SVGSVGElement>) => <svg {...base} viewBox="0 0 16 16" {...p}><path d="M13.5 10.2A5.5 5.5 0 0 1 5.8 2.5a5.5 5.5 0 1 0 7.7 7.7z" /></svg>;
 export const IconMenu = (p: SVGProps<SVGSVGElement>) => <svg {...base} viewBox="0 0 16 16" {...p}><path d="M2.5 4h11M2.5 8h11M2.5 12h11" /></svg>;
 export const IconInstall = (p: SVGProps<SVGSVGElement>) => <svg {...base} viewBox="0 0 16 16" {...p}><path d="M8 2v8M4.5 6.5L8 10l3.5-3.5M3 13h10" /></svg>;
-export const Logo = (p: SVGProps<SVGSVGElement>) => <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true" {...p}><path d="M11 2 L20 11 L11 20 L2 11 Z" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="M11 7 L15 11 L11 15 L7 11 Z" fill="var(--accent)" /></svg>;
+/** Riftbound's emblem: the same file as the favicon, so there is one copy of it. */
+export const Logo = () => <img src={`${import.meta.env.BASE_URL}favicon.svg`} width="24" height="24" alt="" />;
