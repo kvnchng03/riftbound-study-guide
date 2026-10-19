@@ -61,10 +61,10 @@ export function DeckParts() {
 const SPOTS: { n: number; x: number; y: number; title: string; text: string }[] = [
   { n: 1, x: 11, y: 9, title: 'Energy cost', text: 'Turn this many runes sideways to pay it. Kai’Sa costs 4.' },
   { n: 2, x: 86, y: 9, title: 'Might', text: 'Her damage and her toughness: 4.' },
-  { n: 3, x: 50, y: 55, title: 'Type line', text: 'Champion unit, plus tags like her champion name.' },
-  { n: 4, x: 20, y: 61, title: 'Name', text: 'The full name includes the subtitle: "Kai’Sa, Survivor".' },
-  { n: 5, x: 19, y: 74, title: 'Keyword', text: 'Accelerate: pay 1 energy + 1 Fury power extra and she enters ready.' },
-  { n: 6, x: 50, y: 81, title: 'Rules text', text: 'When she takes a battlefield, draw a card.' }
+  { n: 3, x: 97, y: 54, title: 'Type line', text: 'Champion unit, plus tags like her champion name.' },
+  { n: 4, x: 3, y: 60, title: 'Name', text: 'The full name includes the subtitle: "Kai’Sa, Survivor".' },
+  { n: 5, x: 3, y: 73, title: 'Keyword', text: 'Accelerate: pay 1 energy + 1 Fury power extra and she enters ready.' },
+  { n: 6, x: 97, y: 81, title: 'Rules text', text: 'When she takes a battlefield, draw a card.' }
 ];
 export function Anatomy() {
   return (

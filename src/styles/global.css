@@ -114,7 +114,7 @@ main{min-width:0;padding-block:36px calc(120px + env(safe-area-inset-bottom,0px)
 .badge{min-width:28px;height:28px;padding:0 6px;border-radius:14px;display:inline-grid;place-items:center;font-size:13.5px;font-weight:700;background:var(--paper);border:2px solid var(--ink-3);color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.2)}
 .badge.buff{border-color:var(--green);color:var(--green)} .badge.damage{border-color:var(--red);color:var(--red)} .badge.point{border-color:var(--accent);color:var(--accent)}
 .rc .tag{position:absolute;left:50%;transform:translateX(-50%);bottom:calc(100% + 4px);font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--gold);background:var(--gold-soft);border-radius:4px;padding:1px 6px;white-space:nowrap}
-.hotspot{position:absolute;width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:50%;background:var(--accent);color:#fff;font-size:13px;font-weight:700;display:grid;place-items:center;box-shadow:0 0 0 3px rgba(255,255,255,.85),0 2px 6px rgba(0,0,0,.35);pointer-events:none}
+.hotspot{position:absolute;width:24px;height:24px;margin:-12px 0 0 -12px;border-radius:50%;background:var(--accent);color:#fff;font-size:13px;font-weight:700;display:grid;place-items:center;box-shadow:0 0 0 3px rgba(255,255,255,.85),0 2px 6px rgba(0,0,0,.35);pointer-events:none}
 
 /* stacks and slots */
 .deckstack{position:relative;width:clamp(52px,14cqw,100px);aspect-ratio:744/1039}
